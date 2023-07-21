@@ -1,0 +1,75 @@
+/* Index*/
+body {
+    background-color: #FDFBF8; /* Color nude */
+    color: #000000; /* Texto negro */
+  }
+  
+  .navbar {
+    background-color: #fcfcfc; /* Verde suave */
+  }
+  
+  .navbar-brand {
+    color: #000000; /* Texto negro */
+  }
+  
+  .navbar-nav .nav-link {
+    color: #000000; /* Texto negro */
+  }
+  
+  .carousel-inner img {
+    height: 700px;
+    object-fit: cover;
+  }
+  
+  .novedades {
+    background-color: #FDFBF8; /* Color nude */
+    padding: 50px 0;
+  }
+  
+  .footer {
+    background-color: #F2F7F5; /* Verde suave */
+    padding: 20px 0;
+    color: #000000; /* Texto negro */
+  }
+
+ 
+
+  /*CONTACTO**/
+
+  /* Estilos para el formulario de contacto y la sección */
+.contacto {
+  padding: 30px 0;
+}
+
+.contacto h2 {
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+}
+
+.banner-image {
+  max-width: 100%;
+  margin-bottom: 50px;
+}
+
+.form {
+  max-width: 400px;
+  margin: 0 auto; /* Esto centrará el formulario horizontalmente */
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.btn-primary {
+  margin-top: 20px;
+}
+
+  
+
+
+
+
+
+
+
+  
