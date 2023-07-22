@@ -1,4 +1,11 @@
 /* Index*/
+
+.logo-img {
+  max-width: 250px; /* Ajusta el tamaño del logo según lo necesites */
+  height: auto; /* Ajusta automáticamente la altura de la imagen para mantener las proporciones */
+  margin-right: 10px; /* Añade un margen derecho para separar el logo del texto del navbar, si es necesario */
+}
+
 body {
     background-color: #FDFBF8; /* Color nude */
     color: #000000; /* Texto negro */
@@ -47,7 +54,7 @@ body {
 }
 
 .banner-image {
-  max-width: 100%;
+  max-width: 300px;
   margin-bottom: 50px;
 }
 
