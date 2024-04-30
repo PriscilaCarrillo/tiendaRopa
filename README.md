@@ -1,22 +1,7 @@
-# My personal project in visual studio (Clothes store)
+Hola Priscila. Siendo honesto tengo muchas cosas que escribir, pero todo se resume en que deseo que tengas una linda vida, que puedas lograr tus metas y que en verdad me gustaría volver a hablar contigo. No te diré que te amo, porque a pesar de hacerlo, sé que no quieres leer o escuchar eso. No quiero molestarte, de verdad.
 
+Y bueno, si no quieres contestar por tu salud mental, porque tienes otras prioridades, lo entiendo, y respeto, está bien. De verdad que he escrito y borrado muchas veces este correo, porque sé que me equivoqué, nos equivocamos en distintas cosas, y no sé si tienes resentimiento u odio hacía mí y la verdad sólo quiero que si alguna vez en la vida vuelvo a verte, no quiero incomodarte o no poder saludarte, porque de verdad agradezco cada vivencia que tuvimos, de corazón lo escribo.
 
-Welcome to my used clothing store website repository!
-This project is a web application for a store that sells high-quality second-hand clothing. 
-The website is built using HTML, CSS, and Bootstrap to provide a visually appealing and responsive user experience.
+De verdad sólo me gustaría poder cerrar todo de manera sana, sin remordimientos, sin rencores... Pero si no puedes y no quieres porque ya pasaste a otra página, lo entenderé. Si hay silencio luego, tomaré eso como una respuesta.
 
-
-## Features
-### User-friendly Interface: 
-The website offers an intuitive and user-friendly interface, making it easy for customers to browse and purchase items.
-### Responsive Design: 
-The website is built with Bootstrap, ensuring that it is fully responsive and adapts to various screen sizes and devices.
-### Product Categories: 
-Users can explore different clothing categories to find the items they are interested in, such as shirts, pants, dresses, and accessories.
-### Search Functionality:
-A search feature allows users to find specific clothing items quickly.
-### Shopping Cart:
-Customers can add items to their shopping cart and proceed to checkout with ease.
-Payment Integration: Secure payment processing is integrated, providing a smooth and safe checkout experience.
-### User Accounts:
-Users have the option to create accounts and manage their profile and order history.
+Independiente de lo que puedas pensar de mí, o si no quieres responder, o si no lees este correo, o si me tienes bloqueado en correo, no lo sé, básicamente si no lees esto... De verdad que estoy agradecido de haberte conocido, que siempre habrá una parte de tus enseñanzas, de nuestras vivencias, en mí vida, que siempre recordaré y atesoraré las cosas lindas que vivimos... Cambiaremos mucho a lo largo de la vida, somos jóvenes, pero marcaste mí vida Priscila, y te agradezco eso. Sea quien sea en quien te estés convirtiendo ahora, que florezcas y puedas ser feliz, en lo que tú decidas ser y hacer... Siempre te enviaré amor, y buenos deseos en las oraciones. Gracias Priscila, de verdad... pingubeso.
